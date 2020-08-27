@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180405170043",
+    "firebase_url": "https://mellow-cf103.firebaseio.com",
+    "project_id": "mellow-cf103",
+    "storage_bucket": "mellow-cf103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180405170043:android:6da24962f3fa1f68b057de",
+        "android_client_info": {
+          "package_name": "com.example.mellow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180405170043-09slv31sgd96m0ba1mc9k5gm6tacfput.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mellow",
+            "certificate_hash": "8d886cbe7d148ae7bdb60b39f7be5b802c4ce49b"
+          }
+        },
+        {
+          "client_id": "180405170043-pp6f3ike8q9qeuthv0u2vsdvhvsskssv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUeWapwTjzTNqZTeo5m5SPiqTeS2ZH6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180405170043-pp6f3ike8q9qeuthv0u2vsdvhvsskssv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
